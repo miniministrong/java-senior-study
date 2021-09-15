@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lambda表达式/Lambda表达式.iml" filepath="$PROJECT_DIR$/Lambda表达式/Lambda表达式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream流/Stream流.iml" filepath="$PROJECT_DIR$/Stream流/Stream流.iml" />
+    </modules>
+  </component>
+</project>
